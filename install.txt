@@ -6,8 +6,7 @@ sudo apt-get install libqt4-dev libusb-1.0-0-dev git-core
 # Go to home directory (or wherever you want to install it)
 cd ~
 # Get the latest source code (if you don't already have it)
-git clone git://gitorious.org/robocut/robocut.git
-
+git clone git://gitlab.org/robocut/robocut.git
 # Go into the source code directory.
 cd robocut
 
